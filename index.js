@@ -1,11 +1,12 @@
 var animal = 'dog'
+var cat = 'animal'
 
 function myAnimal() {
   // You should not need to modify this function
   return animal
 }
 
-function yourAnimal() {
+function yourcat() {
   // The tests expect this function to return `animal` just like the previous function
   // However, you cannot simply modify the existing variable declared on line 1 in the global scope 
   // How can we make sure that this function
