@@ -1,5 +1,4 @@
 var animal = 'dog'
-var animal = 'animal'
 
 function myAnimal() {
   // You should not need to modify this function
