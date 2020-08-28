@@ -5,7 +5,7 @@ function myAnimal() {
   return animal
 }
 
-var Animal = 'animal'
+var Animal = 'your animal'
 
 function yourAnimal() {
   // The tests expect this function to return `animal` just like the previous function
